@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Deployment of a Simple React App to the Container for experimental purpose
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was done with Docker Dekstop which runs docker daemon thread server to to fetch API request in form of REST API and distributes in the container which is on another OS.
 
 ## Available Scripts
 
