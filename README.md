@@ -1,2 +1,2 @@
 # loginapp
-A sample login form built using Docker for the containerization purpose
+Commit has been moved to master branch
